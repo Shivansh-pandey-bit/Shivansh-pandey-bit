@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @Shivansh-pandey-bit
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Shivansh-pandey-bit/Shivansh-pandey-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎈 Hi respected visiters🎈 <br />
+✨ My name is Shivansh Pandey ✨<br />
+📏 I am a 11th Grader 📏 <br />
+🧠 Very Passionate about AI/ML 🧠 <br />
+🎮 Gaming is a thing i like and can integrate my programming skills with 🎮<br />
+🐍 Currently Mastering Python to get a strong command in AI/ML 🐍
