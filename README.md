@@ -1,4 +1,4 @@
-🎈 Hi respected visiters🎈 <br />
+🎈 Hi respected visiters 🎈 <br />
 ✨ My name is Shivansh Pandey ✨<br />
 📏 I am a 11th Grader 📏 <br />
 🧠 Very Passionate about AI/ML 🧠 <br />
